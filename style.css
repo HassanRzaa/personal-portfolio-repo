@@ -1,0 +1,402 @@
+body{
+     font-family: sans-serif;
+}
+
+.navbar{
+     position: relative;
+     top: -8px;
+     left: -8px;
+     background-color: rgba(47, 52, 79, 0.827);
+     height: 620px;
+     width: 1600px;
+}
+.navbarname{
+     position: absolute;
+     top: 15px;
+     left: 30px;
+     color: #fff;
+     font-size: 35px;
+     
+}
+.navbarhome{
+     position: absolute;
+     right: 656px;
+     top: 20px;
+     word-spacing: 50px;
+     font-size: 25px;
+     color: darkgray;
+     font-weight: bold;
+}
+.navbarlinks{
+     position: absolute;
+     right: 95px;
+     top: 19px;
+     letter-spacing: 40px;
+}
+.cricle{
+     position: absolute;
+     top: 112px;
+     left: 565px;
+     border: darkgrey solid;
+     border-radius: 260px;
+     height: 500px;
+     width: 500px;
+     background-color: darkgray;
+ }
+.para1{
+     position: absolute;
+     top: 54px;
+     left: 143px;
+     font-size: 67px;
+     color: darkgray;
+}
+.para2{
+     position: absolute;
+    top: 117px;
+    left: 139px;
+    font-weight: 800;
+    font-size: 75px;
+    color: #fff;
+    letter-spacing: 3px;
+}
+.line{
+     position: absolute;
+     top: 305px;
+     left: 145px;
+     height: 6px;
+     width: 210px;
+     background-color: orange;
+}
+.para3{
+     position: absolute;
+     top: 322px;
+     left: 140px;
+     color: darkgray;
+     font-weight: bold;
+     word-spacing: 2px;
+     letter-spacing: 1px;
+     line-height: 22px;
+}
+.pararight1{
+     position: absolute;
+     top: 180px;
+     left: 1027px;
+     font-size: 23px;
+     font-weight: 600;
+     color:#ffffff95;
+}
+.pararight2{
+     position: absolute;
+     top: 243px;
+     left: 1027px;
+     color: #ffffff95;
+}
+.show{ 
+     position: absolute;
+     top: 306px;
+     left: 1040px;
+     color: rgb(255, 132, 0);
+     font-weight: 700;
+}
+.arrow{
+     position: absolute;
+     top: 301px;
+     left: 1130px;
+}
+.hassan{
+     position: absolute;
+     top: 28px;
+    left: 509px;
+    
+}
+.color{
+     position: absolute;
+     top: 620px;
+     left: 0px;
+     background-color: rgba(33, 32, 91, 0.839);
+     height: 1030px;
+     width: 1600px;
+}
+.center{
+     position: absolute;
+    top: 531px;
+    left: 337px;
+    height: 145px;
+    width: 952px;
+    background-color: darkgrey;
+}
+.table{
+     position: absolute;
+     top: 568px;
+     left: 407px;
+     
+    
+}
+.tdone{
+     position: absolute;
+     background-color: rgba(33, 32, 91, 0.839);
+     padding: 19px;
+     left: -23px;
+     top: -13px;
+}
+.tdtwo{
+     position: absolute;
+    left: 204px;
+    top: -13px;
+    padding: 19px;
+    background-color: rgba(33, 32, 91, 0.839);
+    
+}
+.tdthree{
+     background-color: rgba(33, 32, 91, 0.839);
+     position: absolute;
+     left: 433px;
+     top: -13px;
+     padding: 19px;
+}
+.tdfour{
+     background-color: rgba(33, 32, 91, 0.839);
+     position: absolute;
+     left: 650px;
+     top: -13px;
+     padding: 19px;
+
+}
+.accounts{
+    position: absolute;
+     top: 334px;
+     left: 1070px;
+}
+.table0{
+     position: absolute;
+    left: 334px;
+    top: 742px;
+    width: 342px;
+}
+.table1 {
+     color: #fff;
+     font-size: xx-large;
+     font-weight: 600;
+ }
+ .table2 {
+     position: relative;
+     top: -35px;
+     color: darkgray;
+     line-height: 24px;
+ }
+ .table3 {
+     position: absolute;
+     top: 216px;
+     color: orange;
+     font-size: 45px;
+ }
+.table4 {
+     position: absolute;
+     top: 216px;
+     left: 202px;
+     color: orange;
+     font-size: 45px;
+ } 
+ .table5 {
+     position: absolute;
+     top: 272px;
+     color: darkgray;
+ }
+ .table6 {
+     position: absolute;
+     top: 272px;
+     left: 202px;
+     color: darkgray;
+ }
+ .table7 {
+     position: absolute;
+     top: 310px;
+     color: orange;
+     font-size: 45px;
+ }
+ .table8 {
+     position: absolute;
+     top: 310px;
+     left: 202px;
+     color: orange;
+     font-size: 45px;
+ } 
+.table9{ position: absolute;
+         top: 365px;
+         color: darkgray;
+}
+.table10{ position: absolute;
+         top: 365px;
+         left: 202px;
+         color: darkgray;
+}
+.tableright{
+     position: absolute;
+     left: 873px;
+     top: 775px;
+     width: 540px;
+     color: darkgray;
+     font-weight: bold;
+}
+.right2 {
+     position: absolute;
+     top: 17px;
+     left: 178px;
+     color: darkgray;
+     font-size: 30px;
+     font-weight: bold;
+ }
+ .right3 {
+     position: absolute;
+     top: 54px;
+     left: 178px;
+     color: darkgray;
+     font-weight: bold;
+ }
+ .right4 {
+     position: absolute;
+     top: 119px;
+     left: 3px;
+     border-bottom: solid darkgray;
+     width: 437px;
+ }
+ .right5 {
+     position: absolute;
+     top: 146px;
+ }
+ .right6 {
+     position: absolute;
+     top: 163px;
+     left: 178px;
+     font-size: 30px;
+ }
+ .right7 {
+     position: absolute;
+     top: 198px;
+     left: 178px;
+ }
+ .right8 {
+     position: absolute;
+     top: 263px;
+     border-bottom: solid;
+     width: 437px;
+ }
+ .right9 {
+     position: absolute;
+     top: 289px;
+ }
+ .right10 {
+     position: absolute;
+     top: 315px;
+     left: 178px;
+     font-size: 30px;
+ }
+ .right11 {
+     position: absolute;
+     top: 352px;
+     left: 178px;
+ }
+ .right12 {
+     position: absolute;
+     top: 400px;
+     border-bottom: solid;
+     width: 437px;
+ }
+ .lasttable{
+     position: absolute;
+     width: 1600px;
+ }
+ .last1 {
+     position: absolute;
+     top: 630px;
+     left: 194px;
+     background-color: darkgray;
+     height: 300px;
+     width: 367px;
+ }
+ .last2{
+    position: absolute;
+    top: 658px;
+    left: 220px;
+ }
+ .last3{
+    position: absolute;
+    top: 684px;
+    left: 224px;
+    color: #fff;
+    font-size: xx-large;
+ }
+ .last4{
+    position: absolute;
+    top: 753px;
+    left: 223px;
+    color: darkslateblue;
+    font-weight: bold;
+    word-spacing: 4px;
+    line-height: 24px;
+ }
+ .last5 {
+     position: absolute;
+     top: 630px;
+     left: 576px;
+     background-color: darkgray;
+     height: 300px;
+     width: 367px;
+ }
+ .last6{
+    position: absolute;
+    top: 658px;
+    left: 592px;
+ }
+ .last7{
+    position: absolute;
+    top: 688px;
+    left: 598px;
+    font-size: xx-large;
+    color: #fff;
+ }
+ .last8{
+    position: absolute;
+    top: 753px;
+    left: 598px;
+    color: darkslateblue;
+    font-weight: bold;
+    word-spacing: 4px;
+    line-height: 24px;
+ }
+ .last9 {
+     position: absolute;
+     top: 630px;
+     left: 958px;
+     background-color: darkgray;
+     height: 300px;
+     width: 367px;
+ }
+ .last10{
+    position: absolute;
+    top: 658px;
+    left: 976px;
+ }
+ .last11{
+    position: absolute;
+    top: 688px;
+    left: 978px;
+    font-size: xx-large;
+    color: #fff;
+ }
+.last12{
+    position: absolute;
+    top: 753px;
+    left: 981px;
+    color: darkslateblue;
+    font-weight: bold;
+    word-spacing: 4px;
+    line-height: 24px;
+}
+a{
+    text-decoration: none;
+    color:rgba(53, 52, 52, 0.541);
+}
+a:active{
+    color: #fff;
+}
