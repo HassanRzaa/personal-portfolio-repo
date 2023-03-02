@@ -308,7 +308,7 @@ body{
  }
  .last1 {
      position: absolute;
-     top: 630px;
+     top: 700px;
      left: 194px;
      background-color: #403f4f;
      height: 300px;
@@ -316,19 +316,19 @@ body{
  }
  .last2{
     position: absolute;
-    top: 658px;
+    top: 710px;
     left: 220px;
  }
  .last3{
     position: absolute;
-    top: 684px;
+    top: 750px;
     left: 224px;
     color: #fff;
     font-size: xx-large;
  }
  .last4{
     position: absolute;
-    top: 753px;
+    top: 820px;
     left: 223px;
     color: darkgray;
     font-weight: bold;
@@ -337,7 +337,7 @@ body{
  }
  .last5 {
      position: absolute;
-     top: 630px;
+     top: 700px;
      left: 576px;
      background-color: #403f4f;
      height: 300px;
@@ -345,19 +345,19 @@ body{
  }
  .last6{
     position: absolute;
-    top: 658px;
+    top: 710px;
     left: 592px;
  }
  .last7{
     position: absolute;
-    top: 688px;
+    top: 750px;
     left: 598px;
     font-size: xx-large;
     color: #fff;
  }
  .last8{
     position: absolute;
-    top: 753px;
+    top: 820px;
     left: 598px;
     color: darkgray;
     font-weight: bold;
@@ -366,7 +366,7 @@ body{
  }
  .last9 {
      position: absolute;
-     top: 630px;
+     top: 700px;
      left: 958px;
      background-color: #403f4f;
      height: 300px;
@@ -374,19 +374,19 @@ body{
  }
  .last10{
     position: absolute;
-    top: 658px;
+    top: 710px;
     left: 976px;
  }
  .last11{
     position: absolute;
-    top: 688px;
+    top: 750px;
     left: 978px;
     font-size: xx-large;
     color: #fff;
  }
 .last12{
     position: absolute;
-    top: 753px;
+    top: 820px;
     left: 981px;
     color:darkgray;
     font-weight: bold;
