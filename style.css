@@ -397,8 +397,4 @@ a{
     text-decoration: none;
     color: darkgray;
 }
-@media screen and (min-width: 480px) {
-    #leftsidebar {width: 200px; float: left;}
-    #main {margin-left: 216px;}
-  }
   
