@@ -8,23 +8,24 @@ body{
      left: -8px;
      background-color:#363543;
      height: 676px;
-     width: 1600px;
+     width: 1500px;
 }
 .emoji{
     position: absolute;
-    top: 15px;
+    top: 18px;
+    left: 20px;
 }
 .navbarname{
      position: absolute;
      top: 15px;
-     left: 30px;
+     left: 53px;
      color: #fff;
      font-size: 35px;
      
 }
 .navbarhome{
      position: absolute;
-     right: 656px;
+    left: 1200px;
      top: 20px;
      word-spacing: 50px;
      font-size: 25px;
@@ -33,7 +34,7 @@ body{
 }
 .navbarlinks{
      position: absolute;
-     right: 95px;
+     left:490px ;
      top: 19px;
      letter-spacing: 40px;
 }
@@ -119,7 +120,7 @@ body{
      left: 0px;
      background-color: #282832;
      height: 1030px;
-     width: 1600px;
+     width: 1500px;
 }
 .center{
      position: absolute;
