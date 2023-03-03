@@ -10,6 +10,10 @@ body{
      height: 676px;
      width: 1600px;
 }
+.emoji{
+    position: absolute;
+    top: 15px;
+}
 .navbarname{
      position: absolute;
      top: 15px;
