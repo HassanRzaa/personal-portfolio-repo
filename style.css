@@ -25,7 +25,7 @@ body{
 }
 .navbarhome{
      position: absolute;
-    left: 1200px;
+    left: 492px;
      top: 20px;
      word-spacing: 50px;
      font-size: 25px;
@@ -34,7 +34,7 @@ body{
 }
 .navbarlinks{
      position: absolute;
-     left:490px ;
+     left:1200px ;
      top: 19px;
      letter-spacing: 40px;
 }
